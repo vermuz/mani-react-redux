@@ -1,0 +1,10 @@
+node_modules/
+
+# Packaging
+dist/
+
+# Optional npm cache directory
+.npm
+
+# VS Code files
+.vscode/
